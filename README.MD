@@ -30,3 +30,31 @@ A API não necessita de nada visual para consulta dos dados, o sistema de OS sim
 
 **Em vídeo**:
 [CDFTV](https://youtu.be/vGuqKIRWosk)
+
+## Na prática
+
+> Tipos de Métodos
+
+- GET;
+- POST;
+- PUT;
+- DELETE;
+- OPTIONS;
+- HEAD;
+
+## Retornos
+
+- JSON
+- XML
+- Texto puro
+
+## Exemplos
+
+**Retorno em JSON:**
+[B7Web](https://api.b7web.com.br/ping/)
+
+**Retorno em XML:**
+[Correios](http://webservice.correios.com.br/service/rastro/Rastro.wsdl)
+
+**Retorno em Texto**:
+[B7Web](https://api.b7web.com.br)
